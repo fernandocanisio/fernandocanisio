@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 Tenho experiência com Power BI e estou estudando Qlik Sense
 - 👯 Posso dar dicas sobre extração, tratamento e visualização
 
-#### Me siga:
+#### Me siga também através das Redes Sociais abaixo 🚀 
 
   ##
  
