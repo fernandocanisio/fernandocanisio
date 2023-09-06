@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 ## Fala, pessoal! Eu sou o Fernando Canisio 👋
 
-- 🔭 Hoje trabalho com Análise de Dados
-- 🌱 Atualmente estou estudando Qlik Sense
-- 👯 Posso colaborar com dicas sobre análise e visualizações
+- 🔭 Trabalho atualmente com Análise de Dados
+- 🌱 Tenho experiência com Power BI e estou estudando Qlik Sense
+- 👯 Posso dar dicas sobre extração, tratamento e visualização
 
-### Entre em contato comigo!
+#### Me siga:
 
   ##
  
