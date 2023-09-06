@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Fala, pessoal! Eu sou o Fernando Canisio 👋
+## Fala, pessoal! Eu sou o Fernando Canisio 😎
 
 - 🔭 Trabalho atualmente com Análise de Dados
 - 🌱 Tenho experiência com Power BI e estou estudando Qlik Sense
-- 👯 Posso dar dicas sobre extração, tratamento e visualização
+- ⚡ Posso dar dicas sobre extração, tratamento e visualização
+- 🚀 Fique a vontade caso queira colaborar
 
-#### Saiba mais 👇
+#### Me acompanhe também atraves das redes 👇
 
   ##
  
