@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **fernandocanisio/fernandocanisio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Fala, pessoal! Eu sou o Fernando Canisio 👋
+
+- 🔭 Hoje trabalho com Análise de Dados
+- 🌱 Atualmente estou estudando Qlik Sense
+- 👯 Posso colaborar com dicas sobre análise e visualizações
+- 📫 Entre em contato comigo pelo e-mail fcanisio@gmail.com
+
+### Abraços!
