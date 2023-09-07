@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Me acompanhe também atraves das Redes Sociais:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fernandocanisio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernandocanisio/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fernandocanisio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernandocanisio/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Algumas Linguagens e Ferramentas que utilizo:</h3>
